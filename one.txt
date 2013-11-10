@@ -1,0 +1,27 @@
+Starting with $250000.0 in stocks
+Accruing 2.5% annually
+And $150000.0 in cash
+Minus 1.0% for inflation
+Deducting $20000.0 annually after interest and inflation
+Year 1 cash 128500.0 principal 253687.5
+Year 2 cash 107215.0 principal 257429.390625
+Year 3 cash 86142.85 principal 261226.47413671872
+Year 4 cash 65281.42150000001 principal 265079.56463023537
+Year 5 cash 44628.60728500001 principal 268989.48820853134
+Year 6 cash 24182.32121215001 principal 272957.0831596072
+Year 7 cash 3940.4980000285104 principal 276983.2001362114
+Year 8 cash 0.0 principal 264969.79535824875
+Year 9 cash 0.0 principal 248878.09983978292
+Year 10 cash 0.0 principal 232549.05181241973
+Year 11 cash 0.0 principal 215979.15032665292
+Year 12 cash 0.0 principal 199164.84279397104
+Year 13 cash 0.0 principal 182102.5242251821
+Year 14 cash 0.0 principal 164788.53645750353
+Year 15 cash 0.0 principal 147219.1673702517
+Year 16 cash 0.0 principal 129390.6500889629
+Year 17 cash 0.0 principal 111299.16217777508
+Year 18 cash 0.0 principal 92940.82481989727
+Year 19 cash 0.0 principal 74311.70198599076
+Year 20 cash 0.0 principal 55407.79959028412
+Year 21 cash 0.0 principal 36225.064634240814
+Year 22 cash 0.0 principal 16759.38433759586
